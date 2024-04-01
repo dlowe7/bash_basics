@@ -8,7 +8,7 @@ while [ true ]; do
 
 case $note in
    # each case matches a pattern
-   do|Do)
+   rap|Rap)
       echo "Doe a deer a female deer"
       ;;   
    rae|Rae)
